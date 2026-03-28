@@ -1,29 +1,30 @@
 # Task 1 – Infographic
 
 ## Overview
-This task involved creating a **Digital Literacy Infographic** using **Canva** to visually communicate key concepts related to digital literacy.
+This task involved creating a Digital Literacy Infographic using Canva to visually present important concepts related to digital literacy in a simple and clear way.
 
 ## What is Digital Literacy?
-Digital literacy is the ability to use digital technologies effectively, safely, and responsibly. It covers a range of skills including:
+Digital literacy is the ability to use digital tools effectively, safely, and responsibly. It includes different skills such as:
 
-- 🔍 **Information Literacy** – Finding, evaluating, and using information online
-- 💬 **Communication** – Communicating professionally and safely on digital platforms
-- 🔒 **Cybersecurity** – Protecting personal data and understanding online threats
-- 🖥️ **Digital Tools** – Using software, applications, and online services competently
-- 🤝 **Digital Citizenship** – Behaving ethically and responsibly in digital spaces
+- Information Literacy – finding and using correct information online  
+- Communication – interacting professionally on digital platforms  
+- Cybersecurity – protecting personal data and staying safe online  
+- Digital Tools – using applications and software properly  
+- Digital Citizenship – behaving responsibly in digital spaces  
 
 ## Infographic Highlights
-The infographic covers:
-1. Definition of Digital Literacy
-2. Core digital literacy skills
-3. Importance of digital literacy in the modern world
-4. Tips for staying safe online
-5. Resources for improving digital skills
+The infographic includes:
+
+- Meaning of digital literacy  
+- Importance of digital skills in learning and daily life  
+- Basic online safety practices  
+- Email etiquette and communication  
+- Key areas of responsible digital behavior  
 
 ## Tools Used
-- **Canva** – Online graphic design tool used to create the infographic
+- Canva – used to design and structure the infographic  
 
 ## Key Takeaways
-- Digital literacy is essential for participation in today's digital society.
-- It helps individuals navigate, evaluate, and create information using digital technologies.
-- Being digitally literate improves career prospects and personal safety online.
+- Digital literacy is important for both academic and personal use  
+- It helps in safe and effective use of online platforms  
+- Good digital habits improve communication and awareness 
